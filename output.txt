@@ -1,0 +1,13 @@
+Words:
+and = 1
+angry = 1
+bright = 1
+eyes = 1
+fire = 1
+in = 1
+lion = 1
+s = 1
+the = 2
+was = 1
+
+Most used word: the (2)
